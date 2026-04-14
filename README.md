@@ -2,8 +2,7 @@
 <tr>
 <td width="35%">
 
-<img src="./assets/avatar.jpg" width="220" style="border-radius:12px;"/>
-
+<img src="https://raw.githubusercontent.com/r4x4nj031/r4x4nj031/main/assets/avatar.png" width="220"/>
 </td>
 <td width="65%">
 
