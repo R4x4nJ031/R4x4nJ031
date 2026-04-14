@@ -1,5 +1,3 @@
-<div style="background:#161b22; padding:6px 10px; border-radius:10px 10px 0 0; font-size:12px;">
-● ● ●
 </div>
 <table>
 <tr>
