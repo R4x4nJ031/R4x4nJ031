@@ -24,9 +24,9 @@ Uptime:   3 years (still booting...)
 ---Checking Skills.txt---
 
 [+] Threat Modeling (STRIDE, DFDs, abuse-case mapping)
-[+] Code Review (auth flows, input validation, trust boundaries)
-[+] API Security (auth, rate limits, data exposure)
-[+] CI/CD Security (pipeline trust, secret exposure)
+[+] Secure Code Review 
+[+] SAST | DAST | SCA 
+[+] CI/CD Security  
 
 Contact:
 Email:    s.i.rakshan@gmail.com
